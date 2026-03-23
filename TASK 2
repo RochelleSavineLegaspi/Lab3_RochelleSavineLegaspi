@@ -1,0 +1,23 @@
+Task 2: Formatting Challenge
+
+<html>
+<head>
+<title>Task 2</title>
+</head>
+<body>
+<h1>Formatting Challenge</h1>
+
+<p>
+Welcome to
+<b>HTML Learning</b>
+HTML is the
+<i>standard language</i>
+for creating webpages.
+</p>
+Learning HTML is
+<mark>fun and useful</mark>
+<p>
+Some old tags are deprecated.
+</p>
+</body>
+</html>
