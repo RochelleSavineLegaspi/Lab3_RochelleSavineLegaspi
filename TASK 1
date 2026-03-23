@@ -1,0 +1,21 @@
+Task 1: Correct the formatting errors in the code below.
+
+Fixed HTML Code:
+
+<html>
+<head>
+<title>Formatting</title>
+</head>
+<body>
+
+<h1>Learning HTML</h1>
+
+<p>HTML is <b>very important</b> <i>for web development</i></p>
+
+</body>
+</html>
+
+Explanation:
+The <h1> doesn’t have “/”
+And <b> has a missing “closing tag” which is </b>
+And also the <i> has a missing “closing tag” which is </i>
